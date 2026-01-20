@@ -1,3 +1,5 @@
 RentCal.py
 __pycache__/
 *.pyc
+
+Compression and Decompression/*.txt
