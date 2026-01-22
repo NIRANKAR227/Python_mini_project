@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 
 Compression and Decompression/*.txt
+.env
