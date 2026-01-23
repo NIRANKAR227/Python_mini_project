@@ -1,6 +1,13 @@
-RentCal.py
+# Python cache
 __pycache__/
 *.pyc
 
-Compression and Decompression/*.txt
+# Env
 .env
+
+# Ignore specific file
+RentCal.py
+
+# Ignore txt files in folder
+Compression\ and\ Decompression/*.txt
+!Compression\ and\ Decompression/demo.txt
